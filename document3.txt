@@ -1,6 +1,2 @@
-branch1 
-document3
-gitHub desktop
-summary 
-commit
-push
+컴퓨터공학과
+kumoh national institute of thechnology
