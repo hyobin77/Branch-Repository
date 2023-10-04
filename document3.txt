@@ -1,2 +1,3 @@
 컴퓨터공학과
+Dept. of C.E.
 kumoh national institute of thechnology
