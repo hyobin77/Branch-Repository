@@ -1,6 +1,2 @@
-branch1 
-document3
-gitHub desktop
-summary 
-commit
-push
+Dept. of C.E.
+Kumoh National INstitute of Technology
